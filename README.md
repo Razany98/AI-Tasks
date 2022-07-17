@@ -7,6 +7,6 @@
 
      https://github.com/Razany98/ROS-Installation
 
-- Voice to text converter: 
+- Installation of ROS2 on Jetson Nano: 
 
      https://github.com/Razany98/ROS-2-installation-on-Jetson-Nano 
